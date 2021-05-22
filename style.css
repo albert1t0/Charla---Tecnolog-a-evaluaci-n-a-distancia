@@ -1,0 +1,51 @@
+/* Custom CSS for presentation */
+
+.title {
+    background-color:  #ffffff;
+    opacity: 0.8;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0 20px 0 20px;i
+    text-shadow: 2px 2px;
+    }
+
+.author {
+      color: #ffffff; 
+      font-weight: bold;
+      text-shadow: 2px 2px;
+}
+
+.date {
+      color: #ffffff;
+      font-weight: bold;
+      text-shadow: 2px 2px;
+}
+
+/* Position the corporate logo in the top right of the page */
+#header-footer .slide-logo1 {
+  position: absolute;
+  top: 15px;
+  right: 50px;
+  width: 150px;
+}
+
+#header-footer .slide-logo2 {
+  position: absolute;
+  top: 15px;
+  left: 50px;
+  width: 100px;
+}
+
+
+/* Style/position the footer text */
+#header-footer .slide-footer {
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 10px;
+    text-align: center;
+    font-size: 65%;
+}

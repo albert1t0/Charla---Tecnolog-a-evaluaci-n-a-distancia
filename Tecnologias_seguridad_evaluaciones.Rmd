@@ -1,0 +1,171 @@
+---
+title: "Alternativas Tecnológicas<br>dirigidas a la seguridad de las<br>Evaluaciones en línea"
+output: 
+  revealjs::revealjs_presentation:
+    template: plantilla.html        
+    theme: default 
+    highlight: pygments
+    center: true
+    transition: fade
+    self_contained: false
+    reveal_plugins: ["notes", "chalkboard"]
+    reveal_options: 
+      slideNumber: true
+      previewLinks: true
+      controls: false
+      data-background-image: "Gfx/blonde.jpg"
+    includes:
+      after_body: footer.html
+    css: style.css      
+---
+
+## {data-background="Gfx/solo.jpg"}
+
+<aside class="notes">
+
+- La emergencia sanitaria llevado a que los estudiantes tengan que esforzarse y tomar mas responsabilidad sobre su educación.
+- Esto parece ser maravilloso para los que toman en serio su aprendizaje y la evaluación como herramienta de aprendizaje.
+- Pero como ha impactado el aprendizaje. Ha sido positivo? Los estudiantes estaban preparados?
+
+</aside>
+
+## Estadísticas rendimiento {}
+
+Porcentaje de créditos aprobados al ingreso en los últimos cinco años.
+
+![Rendimiento 2016 - 2020](Gfx/creditos_16-20.png)
+<small> **Fuente:** SAG - PUCP</small>
+
+<aside class="notes">
+
+- Estas son las estadísticas de los últimos 5 años. Porcentaje de créditos aprobados promedio.
+- Se puede decir que los porcentajes se mantiene. Menos en el primer ciclo del 2020 donde hay una subida impresionante.
+- Siendo el 2020 un mal año para los estudiantes, en cuanto al la escuela se espera que el 2021 los porcentajes vuelvan a bajar, ya que en los estudios de rendimiento de las pruebas de admisión se observan caídas en el desempeño.
+- Lo deben de esta viviendo ustedes en este primer ciclo 2021.
+
+</aside>
+
+# ¿A que se debe esta notable mejora? 
+
+## {data-background="Gfx/notas.png"}  
+
+<aside class="notes">
+
+En el mejor de los casos a una notable preparación y preparación de su espacio.
+Tomando notas y preparándose para las evaluaciones.
+
+</aside>
+
+## {data-background="Gfx/copiando-online.jpg"}
+
+<aside class="notes">
+
+Al parecer los estudiantes han mejorado sus habilidades de multitarea y desarrollaron 
+el trabajo en equipo. Lo que es bueno, pero en las evaluaciones, en ocasiones
+se necesita que el estudiante demuestre que ha desarrollado sus destrezas y aprendizajes.
+
+</aside>
+
+## {data-background="Gfx/dos_computadoras.jpg"}
+
+<aside class="notes">
+
+También esta el caso en que utilizaban dos computaodras para ayudarse a resolver o contactar a otro compañero o ayudante.
+
+</aside>
+
+## {data-background="Gfx/ayuda_amigo.jpg"}
+
+<aside class="notes">
+
+En algunos casos se realiza trabajo colaborativo cuando no esta del todo pedido.
+o se solicita ayuda de alguna persona que domina los temas a tratar. En el caso de escolares han comentado que los padres ayudan a los hijos en las soluciones.
+
+</aside>
+
+## {data-background="Gfx/chat_online.png"}
+
+<aside class="notes">
+
+Una práctica frecuente ha sido el uso de redes sociales para comunicarse e intercambiar respuesta o información y estrategias de solución. Mediante el chat, audio llamadas y video llamadas en algunos casos conferencias en línea.
+
+</aside>
+
+## {data-background="Gfx/copia-celular.jpg"}
+
+<aside class="notes">
+
+Enviar fotografías de las soluciones por redes sociales o correo electrónico a tabletas y celulares también es una práctica frecuente para llegar a soluciones en exámenes.
+
+</aside>
+
+# ¿Que alternativas tecnológicas se tiene para disminuir y disuadir a los estudiantes al fraude?
+
+# 1. Facilidades de los LMSs.
+
+<aside class="notes">
+
+- Un LMS, Learning Managment System (Sistema de Gestión de Aprendizajes).
+- Posen módulos para evaluaciones realización de ejercicios.
+- Estos brindan algunas facilidades para evitar el fraude y copia.
+
+</aside>
+
+## {data-background="Gfx/lms-logos.png"}
+
+<aside class="notes">
+
+Aquí presentamos los más conocidos, hay una gran variedad de LMS corporativos con servicio de tipo SAAS.
+
+</aside>
+
+## 
+
+- Organizar la evaluación por secciones con tiempos predeterminados
+- Controla el tiempo por ejercicio o pregunta de una evaluación
+- Presentar de forma aleatoria las preguntas y alternativas de respuestas
+- Solo ir en una dirección o permitir avanzar y retroceder
+
+# 2. Aplicaciones de seguridad.
+
+## Navegadores seguros
+
+<small style="text-align: left;">
+Son navegadores que toman el control de la computadora y no permiten el acceso a otros programas,
+solo a los permitidos a través de la configuración. No permite cambiar de ventana o ingresar a otras pestañas. Controlan el uso de varias pantallas. No permiten el acceso a través de máquinas virtuales.
+</small>
+
+- Safe Exam Browser SEB <br> [https://safeexambrowser.org](https://safeexambrowser.org)
+- Respondus LockDown Browser <br> [https://safeexambrowser.org](https://safeexambrowser.org)
+
+<aside class="notes">
+
+Estas aplicaciones son totalmente configurables. Vuelven la computadora un kiosco. Como los cajeros automáticos.
+Solo se accede a los que esta permitido. Desde la versión de Moodle 3.8 existe una extensión de integración del
+SEB. A partir de la versión 3.9 ya se incorpora la funcionalidad al core del software.
+
+</aside>
+
+# 3. Sistemas de supervisión en línea.
+
+## {data-background="Gfx/proctor-logos.png"}
+
+## Modalidades de supervisión
+
+- Supervisor en vivo.
+- Supervisión automatizada con IA.
+- Mixta con IA y supervisor persona.
+
+# 4. Otras herramientas de soporte.
+
+# Conclusiones
+
+# ¿Preguntas?
+
+<aside class="notes">
+
+No hay notas
+
+</aside>
+
+
