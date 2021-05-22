@@ -47,6 +47,14 @@ Porcentaje de créditos aprobados al ingreso en los últimos cinco años.
 
 # ¿A que se debe esta notable mejora? 
 
+<aside class="notes">
+
+- Es posible que los estudiantes hayan venido muy preparados para la educación virtual.
+- Es posible que los profesores demoraron en adaptarse a la educación virtual. Sobre todo a las formas de evaluación.
+- Se están aprendiendo nuevas prácticas que pronto se verán en acción en próximos ciclos.
+
+</aside>
+
 ## {data-background="Gfx/notas.png"}  
 
 <aside class="notes">
@@ -119,12 +127,65 @@ Aquí presentamos los más conocidos, hay una gran variedad de LMS corporativos 
 
 </aside>
 
-## 
+## Posibilidades de configuración
 
 - Organizar la evaluación por secciones con tiempos predeterminados
 - Controla el tiempo por ejercicio o pregunta de una evaluación
 - Presentar de forma aleatoria las preguntas y alternativas de respuestas
 - Solo ir en una dirección o permitir avanzar y retroceder
+
+<aside class="notes">
+
+- Tener en consideración que desde el punto de vista de la evaluación, puede afectar la validez.
+- Por ejemplo, si el patrón de preguntas que se presenta es en un orden perjudicial para el evaluado.
+- El orden puede llevarlo a perder mucho tiempo en alguna pregunta y perjudicar.
+
+</aside>
+
+## Recomendaciones para Moodle 1 - PAIDEIA 
+
+![Configuración-moodle-1](./Gfx/moodle1.png)
+
+<aside class="notes">
+
+- Tener control del tiempo de tal manera que este sea los suficiente, ni más ni menos. Aquí se necesita recurrir a la experiencia del profesor.
+- Ofrecer solo un intento para la prueba.
+
+</aside>
+
+## Recomendaciones para Moodle 2 - PAIDEIA
+
+![Configuración-moodle-2](./Gfx/moodle2.png)
+
+<aside class="notes">
+
+- Una pregunta por página complica la posibilidad de cooperación en línea.
+- Si son de respuestas múltiples, utilizar las respuestas en orden aleatorio.
+
+</aside>
+
+
+## Recomendaciones para Moodle 3 - PAIDEIA
+
+![Configuración-moodle-3](./Gfx/moodle3.png)
+
+![Configuración-moodle-4](./Gfx/moodle4.png)
+
+<aside class="notes">
+
+- Solo se accede durante un espacio de tiempo determinado.
+- Utilziar el orden aletorio al presentar las respuestas.
+- Se puede observar como las preguntas se presentan en una página cada una.
+
+</aside>
+
+## Ejemplo de configuración Chamilo LMS
+
+![Configuración-chamilo](./Gfx/chamilo1.png)
+
+## Ejemplo de configuración FastTest Web
+
+![Configuración-fasttest](./Gfx/fasttest1.png)
 
 # 2. Aplicaciones de seguridad.
 
@@ -136,13 +197,76 @@ solo a los permitidos a través de la configuración. No permite cambiar de vent
 </small>
 
 - Safe Exam Browser SEB <br> [https://safeexambrowser.org](https://safeexambrowser.org)
-- Respondus LockDown Browser <br> [https://safeexambrowser.org](https://safeexambrowser.org)
+- Respondus LockDown Browser <br> [https://web.respondus.com/he/lockdownbrowser/](https://web.respondus.com/he/lockdownbrowser/)
 
 <aside class="notes">
 
 Estas aplicaciones son totalmente configurables. Vuelven la computadora un kiosco. Como los cajeros automáticos.
 Solo se accede a los que esta permitido. Desde la versión de Moodle 3.8 existe una extensión de integración del
 SEB. A partir de la versión 3.9 ya se incorpora la funcionalidad al core del software.
+
+</aside>
+
+## SEB y Moodle - PAIDEA 1
+
+![Safe Exam Browse 1](./Gfx/seb1.png)
+<aside class="notes">
+
+- Como se comento desde la versión de moodle 3.9 se incorporó al core. Y para versiones previas por módulo o extensión.
+- Permite la configuración del SEB desde Moodle o a través de un archivo de configuración preparado con la utilidad del SEB.
+
+</aside>
+
+## SEB y Moodle - PAIDEA 2
+
+![Safe Exam Browse 2](./Gfx/seb2.png)
+
+<aside class="notes">
+
+- El SEB a la hora de que el evaluado inicia la prueba le pide descargarlo para instalación.
+- Si ya lo tienen solo tiene que 'Invocar o ejecutar el software para iniciar la prueba.
+- O un archivo de configuración preparado con la utilidad del SEB.
+
+</aside>
+
+## SEB Configuración
+
+![Safe Exam Browse 3](./Gfx/seb0.png)
+
+## SEB y una evaluación PAIDEIA
+
+![Safe Exam Browse 4](./Gfx/seb3.png)
+
+<aside class="notes">
+
+- El SEB toma completamente el control y solo permite los porgrmas autorizados.
+- se muestra la información relevante y algunas ayudas como herramienta de sonido, bateria, reloj, recargar
+zoom.
+
+</aside>
+
+## Respondus Lockdown Browser 1
+
+![Respondus 1](./Gfx/respondous2.png)
+<aside class="notes">
+
+- La pantalla de carga de Respondus
+- Se integra desde un módulo a Moodle - PAIDEIA
+- Es de pago como se puede notar en su web.
+
+</aside>
+
+## Respondus Lockdown Browser 2
+
+![Respondus 2](./Gfx/respondous1.png)
+
+<aside class="notes">
+
+- Este es un modelo de examen PAIDEIA  en Respondus
+- De igual forma el módulo al integrarse a Moodle presenta opciones de configuración.
+- Como ven solo se muestra el navegador. Nada de barra de direcciones o lanzador de Windows.
+- No permite copiar, cambiar de pantalla, imprimir, agrega la calculadora.
+- SEB permite mayor configuración.
 
 </aside>
 
@@ -156,7 +280,9 @@ SEB. A partir de la versión 3.9 ya se incorpora la funcionalidad al core del so
 - Supervisión automatizada con IA.
 - Mixta con IA y supervisor persona.
 
-# 4. Otras herramientas de soporte.
+# 4. Otras herramientas de soporte. {}
+
+Esto es un texto.
 
 # Conclusiones
 
