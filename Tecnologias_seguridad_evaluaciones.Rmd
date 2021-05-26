@@ -3,7 +3,7 @@ title: "Alternativas Tecnológicas<br>dirigidas a la seguridad de las<br>Evaluac
 output: 
   revealjs::revealjs_presentation:
     template: plantilla.html        
-    theme: default 
+    theme: blood 
     highlight: pygments
     center: true
     transition: fade
@@ -13,7 +13,6 @@ output:
       slideNumber: true
       previewLinks: true
       controls: false
-      data-background-image: "Gfx/blonde.jpg"
     includes:
       after_body: footer.html
     css: style.css      
@@ -109,7 +108,15 @@ Enviar fotografías de las soluciones por redes sociales o correo electrónico a
 
 # ¿Que alternativas tecnológicas se tiene para disminuir y disuadir a los estudiantes al fraude?
 
-# 1. Facilidades de los LMSs.
+---
+
+1. Facilidades de los LMS
+2. Aplicaciones de seguridad
+3. Sistemas de supervisión en línea
+4. Otras herramientas
+
+
+# 1. Facilidades de los LMS
 
 <aside class="notes">
 
@@ -132,6 +139,7 @@ Aquí presentamos los más conocidos, hay una gran variedad de LMS corporativos 
 - Organizar la evaluación por secciones con tiempos predeterminados
 - Controla el tiempo por ejercicio o pregunta de una evaluación
 - Presentar de forma aleatoria las preguntas y alternativas de respuestas
+- Presentar las preguntas una a una o por grupos
 - Solo ir en una dirección o permitir avanzar y retroceder
 
 <aside class="notes">
@@ -174,7 +182,7 @@ Aquí presentamos los más conocidos, hay una gran variedad de LMS corporativos 
 <aside class="notes">
 
 - Solo se accede durante un espacio de tiempo determinado.
-- Utilziar el orden aletorio al presentar las respuestas.
+- Utilizar el orden aletorio al presentar las respuestas.
 - Se puede observar como las preguntas se presentan en una página cada una.
 
 </aside>
@@ -187,7 +195,7 @@ Aquí presentamos los más conocidos, hay una gran variedad de LMS corporativos 
 
 ![Configuración-fasttest](./Gfx/fasttest1.png)
 
-# 2. Aplicaciones de seguridad.
+# 2. Aplicaciones de seguridad
 
 ## Navegadores seguros
 
@@ -270,17 +278,89 @@ zoom.
 
 </aside>
 
-# 3. Sistemas de supervisión en línea.
+# 3. Sistemas de supervisión en línea
 
 ## {data-background="Gfx/proctor-logos.png"}
 
 ## Modalidades de supervisión
 
-- Supervisor en vivo.
-- Supervisión automatizada con IA.
-- Mixta con IA y supervisor persona.
+>  A. Supervisión automatizada con IA <br>
+>  B. Supervisor en vivo <br>
+>  C. Mixta con IA y supervisor persona <br>
 
-# 4. Otras herramientas de soporte. {}
+<aside class="notes">
+
+</aside>
+
+## A. Supervisión automartizada con IA
+
+- Acceso biométrico
+- Grabación de audio y video (cámara y/o escritorio)
+- Identificacón de incidencias con IA
+- Aplicaciones lockdown (aislamiento)
+
+## Registro y acceso 1
+
+![Acceso biométrico](./Gfx/pt_registro.png)
+
+## Registro y acceso 2
+
+![Celular PT](./Gfx/pt_cel1.png)
+![Celular ambiente](./Gfx/pt_cel2.png)
+
+## Registro y acceso 3
+
+![Celular PT](./Gfx/pt_cel3.png)
+
+
+## Supervisión automatizada IA 1
+
+![Panel PT 1](./Gfx/pt_panel1.png)
+
+## Supervisión automatizada IA 2
+
+![Panel PT 1](./Gfx/pt_panel2.png)
+
+## Supervisión automatizada IA 3
+
+![Panel PT 1](./Gfx/pt_panel3.png)
+
+## Verificaciones de identidad 1
+
+![Identidad 1](./Gfx/pt_onboard0.png)
+## Verificaciones de identidad 2
+
+![Identidad 1](./Gfx/pt_onboard1.png)
+
+## Verificaciones de identidad 3
+
+![Identidad 1](./Gfx/pt_roomscan.webm)
+
+## Otros servicios - Examus 1
+
+![Examus](./Gfx/examus1.png)
+
+## Otros servicios - Examus 2
+
+![Examus](./Gfx/examus2.png)
+
+## Otros servicios - Mettl 1
+
+![Mettl 1](./Gfx/mettl1.png)
+
+## Otros servicios - Mettl 2
+
+![Mettl 1](./Gfx/mettl2.png)
+
+## otros servicios - ProctorExam
+
+![ProtorExam](./Gfx/proctor_exam.jpg)
+
+## Otros servicios - Respondus Monitor
+
+![Respondus Monitor](./Gfx/respondusmonitor1.png)
+
+# 4. Otras herramientas de ayuda.
 
 Esto es un texto.
 
@@ -295,3 +375,14 @@ No hay notas
 </aside>
 
 
+---
+
+<h1>Proctortrack</h1>
+
+[VER](https://cmva.com/wp-content/uploads/2020/08/ProctorLive-AI-Hosted-Flow-Student-Manual.pdf)
+
+---
+
+<h1>Examus</h1>
+
+[]  [DEMO](https://lms.demo.examus.net/start-demo/)

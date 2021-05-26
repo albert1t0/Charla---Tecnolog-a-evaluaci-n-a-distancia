@@ -1,8 +1,8 @@
 /* Custom CSS for presentation */
 
 .title {
-    background-color:  #ffffff;
-    opacity: 0.8;
+/*    background-color:  #000000;
+    opacity: 0.8;                 */
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -12,13 +12,13 @@
     }
 
 .author {
-      color: #ffffff; 
+      color: #000000; 
       font-weight: bold;
       text-shadow: 2px 2px;
 }
 
 .date {
-      color: #ffffff;
+      color: #000000;
       font-weight: bold;
       text-shadow: 2px 2px;
 }
@@ -48,4 +48,5 @@
     height: 10px;
     text-align: center;
     font-size: 65%;
+    color: white;
 }
