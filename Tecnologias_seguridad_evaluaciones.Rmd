@@ -22,9 +22,9 @@ output:
 
 <aside class="notes">
 
-- La emergencia sanitaria llevado a que los estudiantes tengan que esforzarse y tomar mas responsabilidad sobre su educación.
+- La emergencia sanitaria llevó a que los estudiantes tengan que esforzarse y tomar más responsabilidad sobre su educación.
 - Esto parece ser maravilloso para los que toman en serio su aprendizaje y la evaluación como herramienta de aprendizaje.
-- Pero como ha impactado el aprendizaje. Ha sido positivo? Los estudiantes estaban preparados?
+- Pero como ha impactado el aprendizaje. ¿Ha sido positivo? ¿Los estudiantes estaban preparados?
 
 </aside>
 
@@ -113,7 +113,7 @@ Enviar fotografías de las soluciones por redes sociales o correo electrónico a
 1. Facilidades de los LMS
 2. Aplicaciones de seguridad
 3. Sistemas de supervisión en línea
-4. Otras herramientas
+4. Otras herramientas sugeridas
 
 
 # 1. Facilidades de los LMS
@@ -290,99 +290,309 @@ zoom.
 
 <aside class="notes">
 
+- Se integran a plataforma de evaluación por pluginss
+- Tiene integración por extensiones con los principales LMS. LTI - Learning Tools Interoperability
+- Moodle, Canvas, Blackboard, Sakai, Chamilo.
+- Ultima investigación los costos pueden variar de 4 hasta 12 dólares por evaluado.
+
 </aside>
 
 ## A. Supervisión automartizada con IA
 
 - Acceso biométrico
 - Grabación de audio y video (cámara y/o escritorio)
-- Identificacón de incidencias con IA
+- Identificación de incidencias con IA
 - Aplicaciones lockdown (aislamiento)
+
+<aside class="notes">
+
+</aside>
 
 ## Registro y acceso 1
 
 ![Acceso biométrico](./Gfx/pt_registro.png)
+
+<aside class="notes">
+
+- Este es el servicio que utiliza el CMEC. Proctortrack.
+- Registro de identidad y prueba de sistemas. Evaluación.
+- Registro se genera un ID virtual para próximas fechas. Vigencia un año.
+- Se instala una app que hace de Lockdown a la vez que gestiona el servicio de vigilancia.
+
+</aside>
 
 ## Registro y acceso 2
 
 ![Celular PT](./Gfx/pt_cel1.png)
 ![Celular ambiente](./Gfx/pt_cel2.png)
 
+<aside class="notes">
+
+- La vigilancia puede complementarse con el celular.
+- La plataforma orienta y conedta el celular a partir de un código QR.
+- Para los selfies de identificación y para el roomscan.
+
+</aside>
+
 ## Registro y acceso 3
 
 ![Celular PT](./Gfx/pt_cel3.png)
+
+<aside class="notes">
+
+- El celular puede utilizarse como una segunda cámara.
+- Para escanear hojas que se usen durante el examen
+- La app del celular orienta en esto.
+
+</aside>
+
 
 
 ## Supervisión automatizada IA 1
 
 ![Panel PT 1](./Gfx/pt_panel1.png)
+<aside class="notes">
+
+- Puede verse el panel de revisión de supervisión.
+- Los estudiantes con su registro de incidencias de haberlas.
+- El CMEC no utiliza Live Proctoring, preferimos el IA.
+
+</aside>
 
 ## Supervisión automatizada IA 2
 
 ![Panel PT 1](./Gfx/pt_panel2.png)
+<aside class="notes">
+
+- Panel de revisión, linea de tiempo audio y velocidad de reproducción.
+- Se muestra el navegador de incidencias, flechas derecha.
+- Video y audio de toda la sesión.
+- Si se pierde la conexión por un momento el software guarda localmente.
+
+</aside>
 
 ## Supervisión automatizada IA 3
 
 ![Panel PT 1](./Gfx/pt_panel3.png)
 
+<aside class="notes">
+
+- Se marcan las capturas de infracciones.
+- Algunos son falsos positivos. Ejemplo Gmail o correo web.
+- Capturas cada 20 segundo de escritorio o incidencia.
+- Notas del validador.
+
+</aside>
+
+
 ## Verificaciones de identidad 1
 
 ![Identidad 1](./Gfx/pt_onboard0.png)
+
+<aside class="notes">
+
+- Registro de identidad para comparar
+- ID aprobado.
+
+</aside>
+
 ## Verificaciones de identidad 2
 
 ![Identidad 1](./Gfx/pt_onboard1.png)
+
+<aside class="notes">
+
+- Comparación con el nuevo registro del validado 
+- Difuminado por seguridad. Obtenidos con el app para celular.
+
+</aside>
 
 ## Verificaciones de identidad 3
 
 ![Identidad 1](./Gfx/pt_roomscan.webm)
 
+<aside class="notes">
+
+- Ejemplo de el scan de una habitación 
+- Se pide que se vea por todos lados de la computadora.
+- Fraude con spliters de video.
+
+</aside>
+
+
 ## Otros servicios - Examus 1
 
 ![Examus](./Gfx/examus1.png)
+
+<aside class="notes">
+
+- Servicio que se va a utilizar en admisión.
+- Se graba completamente el video y escritorio.
+- Linea de incidencias en video y en barra lateral.
+- Tiene servicio live.
+
+</aside>
 
 ## Otros servicios - Examus 2
 
 ![Examus](./Gfx/examus2.png)
 
+<aside class="notes">
+
+- No encontre uno de 6.
+- Se puede realizar varios al mismo tiempo
+- Hasta los que quiera pero degrada el funcionamiento del PC
+- Para varios stream se necesitaría ancho de banda del vigilante- profesor.
+
+</aside>
+
 ## Otros servicios - Mettl 1
 
 ![Mettl 1](./Gfx/mettl1.png)
+<aside class="notes">
+
+- Servicio que se utilizó en admisión
+- Fotogramas cada cierto 20 segundo
+- Comunicación con chat individual
+
+</aside>
 
 ## Otros servicios - Mettl 2
 
 ![Mettl 1](./Gfx/mettl2.png)
+<aside class="notes">
 
-## otros servicios - ProctorExam
+- Permitía revisar el video con una linea de tiempo
+- Fotogramas de 20 segundo
+- Smowl, Sumadi. trabajan con fotogramas.
+
+</aside>
+
+## Otros servicios - ProctorExam
 
 ![ProtorExam](./Gfx/proctor_exam.jpg)
+<aside class="notes">
+
+- Este es el ejemplo de live proctoring de proctor-exam
+- Como ven los servicios son similares y difieren en algunas características.
+- La mayoría se integra a plataformas de evaluación y LMS.
+
+</aside>
 
 ## Otros servicios - Respondus Monitor
 
 ![Respondus Monitor](./Gfx/respondusmonitor1.png)
-
-# 4. Otras herramientas de ayuda.
-
-Esto es un texto.
-
-# Conclusiones
-
-# ¿Preguntas?
-
 <aside class="notes">
 
-No hay notas
+- Respondus el del lock down browser también tiene su servicio de proctoring.
 
 </aside>
 
+## Otros servicios - Moodle proctoring
+
+[Ver la web](https://moodle.org/plugins/quizaccess_proctoring)
+
+![Moodle-proctoring](./Gfx/moodleproctor2.png)
+
+# 4. Otras herramientas sugeridas
+
+## SEB y Zoom/Meet
+
+![Vigilancia Zoom](./Gfx/zoom0.png)
+<aside class="notes">
+
+- Por zoom cada estudiante puede tener dos dipositivos (PC y Celular). Lo que lleva que uno pueda ser la cámara y otro lateral o grabando el compuitador.
+- Puede combinarse con SEB para bloquear la computadora, solo se permite Zoom.
+- En modo galería se puede ir vigilando a los estudiantes.
+- Se puede permitir de igual forma una sesión de meet. Meet permite el ingreso invitados o a los que tienen el enlace.
+
+</aside>
+
+## Google Classroom 1
+
+![Tareas 1](./Gfx/classroom1.png)
+<aside class="notes">
+
+- Classroom que viene con el Google Workspace (antes suite) permite programar tareas.
+- Con plantilla previas que se crean para cada evaluado. Por ejemplo la hoja de examen.
+
+</aside>
+
+## Google Classroom 2
+
+![Tarea alumno](./Gfx/classroom2.png)
+<aside class="notes">
+
+- Cada estudiante recibe una hoja de examen y puede resuelve su práctica allí
+- Y luego entregarla para calificación con la misma plataforma.
+- Se puede añadir cuestionario y otros contenidos.
+
+</aside>
+
+## Google Classroom 3
+
+![Versiones documentos](./Gfx/classroom3.png)
+<aside class="notes">
+
+- Una caracterśitca de los documentos de google es que realizan el tracking de cambios
+- Además se ha integrado la comparación de documentos
+- Existen extensiones para plagio de artículos.
+- Se puede ver los tiempo, va grabando cada cierto tiempo. Seguimiento de solución o respuesta.
+
+</aside>
+
+## Github Classroom 1
+
+![Tareas](./Gfx/github1.png)
+<aside class="notes">
+
+- Este es un servicio similar y abierto a uso de Github
+- Se orienta más a programación y desarrollo de software
+- Se necesita aprender git o utilizar github.
+
+</aside>
+
+## Github Classroom 2
+
+![Tareas](./Gfx/github2.png)
+
+<aside class="notes">
+
+- Al igual que google genera espacios individuales para el trabajo.
+- El profesor tiene un interface de calificación.
+
+</aside>
+
+# Reflexiones finales
+
+- La importancia de la evaluación
+- Se cuenta con herramientas PUCP
+- Herramientas externas que pueden complementar
+
+<aside class="notes">
+
+- Controlar el tiempo de evaluación.
+- Tiempos por pregunta.
+- Preguntas complejas en varias preguntas cortas
+- Apoyarse de herramientas PUCP y herramientas externas.
+- Abundancia de información. Tiempos por preguntas videos y audio.
+- Análisis de datos. Se genera mucho dato.
+- Sustentar la respuesta por video (youtube) y subir el enlace.
+- Otros formatos de preguntas. Formas de preguntas.
+- Canal de Telegram con alumnos.
+- Preguntas asesoría y otros.
+
+</aside>
+
+# ¿Preguntas?
+
+# GRACIAS
+
+alberto.torreblanca@pucp.edu.pe
+https://t.me/AlbertoTorreblanca
 
 ---
 
-<h1>Proctortrack</h1>
+<h1>Examus DEMO</h1>
 
-[VER](https://cmva.com/wp-content/uploads/2020/08/ProctorLive-AI-Hosted-Flow-Student-Manual.pdf)
-
----
-
-<h1>Examus</h1>
-
-[]  [DEMO](https://lms.demo.examus.net/start-demo/)
+[Ir al DEMO con Examus](https://lms.demo.examus.net/start-demo/)
